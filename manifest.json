@@ -2,9 +2,21 @@
   "assets": [
     {
       "collection": "historical",
-      "name": "measurements-historical.zip",
-      "sha256": "4c7f70b55ed770f428dea470570ec186dc08878de9010c82f6ac7cfe58215b10",
-      "size": 64764990
+      "name": "measurements-historical-part01.zip",
+      "sha256": "be74841f3756ebab95d5282dbaf1ac787763d93a2055e64e6b9b71adfac1c8f9",
+      "size": 21588716
+    },
+    {
+      "collection": "historical",
+      "name": "measurements-historical-part02.zip",
+      "sha256": "d1e423cb9032f1f09119b75c92d657fb60f9f17c20cca3eeacf4735939c78d20",
+      "size": 21588283
+    },
+    {
+      "collection": "historical",
+      "name": "measurements-historical-part03.zip",
+      "sha256": "dc341c7b4f2a9ac19d2ffc0e456b584c7a6c0612d856d34b4e340a9f01af2bd8",
+      "size": 21588035
     },
     {
       "collection": "main",
