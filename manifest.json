@@ -1,0 +1,96 @@
+{
+  "assets": [
+    {
+      "collection": "historical",
+      "name": "measurements-historical.zip",
+      "sha256": "4c7f70b55ed770f428dea470570ec186dc08878de9010c82f6ac7cfe58215b10",
+      "size": 64764990
+    },
+    {
+      "collection": "main",
+      "name": "measurements-main-part01.zip",
+      "sha256": "38ee50911b8cd6ea45e8a4f20ad270dcf7690f2185e1a6f8a02f008b7ec7724b",
+      "size": 28574665
+    },
+    {
+      "collection": "main",
+      "name": "measurements-main-part02.zip",
+      "sha256": "7dbf570524f55ca1e4661c66fc4e84d6e6097aaf19f1c7b967a380fad0008e55",
+      "size": 28558436
+    },
+    {
+      "collection": "main",
+      "name": "measurements-main-part03.zip",
+      "sha256": "6015737fe8a1728ae83723c5193eb592c53a89d68079f5f200e0cf0204f2c45d",
+      "size": 28584099
+    },
+    {
+      "collection": "main",
+      "name": "measurements-main-part04.zip",
+      "sha256": "dd803f0cf4bc8bda61a6e2b3430c2786635628e37b686dc9edde40cb3af6a1d0",
+      "size": 28587880
+    },
+    {
+      "collection": "main",
+      "name": "measurements-main-part05.zip",
+      "sha256": "9a3f4ae028c1ddd91480cbe99f908f61179559db0b8923a6db2d0899d939766f",
+      "size": 28566276
+    },
+    {
+      "collection": "main",
+      "name": "measurements-main-part06.zip",
+      "sha256": "d9daa68ee3f3b00a27049809a9ae79fd547121fb110e22b940966ee397431b20",
+      "size": 28571806
+    },
+    {
+      "collection": "main",
+      "name": "measurements-main-part07.zip",
+      "sha256": "3ddf206b61efaab8aa82a2c400b2114d644d66a72af37895ad45713f813a7975",
+      "size": 28573801
+    },
+    {
+      "collection": "main",
+      "name": "measurements-main-part08.zip",
+      "sha256": "a3cf0b3aa41da3ed1b88e0ded862952bfde6bc9ffa57d5c3586f999c4372c9f3",
+      "size": 28585393
+    },
+    {
+      "collection": "main",
+      "name": "measurements-main-part09.zip",
+      "sha256": "e93f99fc5a82fb8e88d9adedd67601fbab406a23c1ef01caccf73dea3bdae049",
+      "size": 29289661
+    },
+    {
+      "collection": "main",
+      "name": "measurements-main-part10.zip",
+      "sha256": "508b38ed1bd3b1d9fb87a6f97c708db222bcb1e44e5c2986d42accb7779f4d29",
+      "size": 27850060
+    },
+    {
+      "collection": "main",
+      "name": "measurements-main-part11.zip",
+      "sha256": "e3aa513f54e41601bb5f76fb035413b6ad20d36081ac2aca63ef17c8b1bf3245",
+      "size": 28551873
+    },
+    {
+      "collection": "main",
+      "name": "measurements-main-part12.zip",
+      "sha256": "30fedea75142143023bc2e10aa23d15583822d664f7d44081747721d6ecbd9f8",
+      "size": 28549728
+    },
+    {
+      "collection": "main",
+      "name": "measurements-main-part13.zip",
+      "sha256": "0fcbfd6a70401212f6ca88e5fff5803cc45e25eee10104c4559f687d3c644ca4",
+      "size": 28547876
+    },
+    {
+      "collection": "threshold",
+      "name": "measurements-threshold.zip",
+      "sha256": "d156f2590b23b42117e6911efd110c18d5e0b96b7ce96b175e7cbffa2facd3ab",
+      "size": 8509643
+    }
+  ],
+  "main_member_list_sha256": "04fde091f7bbcd0322af02ca816bcffaf279301f4a253ce265e984a14f2d9948",
+  "title": "Budgeted Evidence Reuse for Typed-Walk Filtering"
+}
